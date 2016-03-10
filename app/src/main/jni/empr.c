@@ -12,7 +12,6 @@
 #include <unistd.h>
 #include <errno.h>
 #include <sys/epoll.h>
-#include <b>
 jstring Java_com_example_novas_myndk_NDK_getMessage(JNIEnv *env,jobject jobject1)
 {
     jint var1=9;
@@ -90,7 +89,7 @@ int Java_com_example_novas_myndk_NDK_printObject(JNIEnv *env,jobject object,jobj
     }
     char c[50];
     fread(c,1,40,f1);
-    printf("src=%d\n",c);
+    //printf("src=%d\n",c);
     __android_log_print(ANDROID_LOG_INFO, "native-activity","%s",c);
 
     return res;

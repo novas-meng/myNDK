@@ -59,7 +59,8 @@ D:/AndroidProject/myNDK/app/src/main//obj/local/armeabi/objs/NDK/empr.o: \
  D:/Android/android-ndk-r10b/platforms/android-9/arch-arm/usr/include/linux/errno.h \
  D:/Android/android-ndk-r10b/platforms/android-9/arch-arm/usr/include/asm/errno.h \
  D:/Android/android-ndk-r10b/platforms/android-9/arch-arm/usr/include/asm-generic/errno.h \
- D:/Android/android-ndk-r10b/platforms/android-9/arch-arm/usr/include/asm-generic/errno-base.h
+ D:/Android/android-ndk-r10b/platforms/android-9/arch-arm/usr/include/asm-generic/errno-base.h \
+ D:/Android/android-ndk-r10b/platforms/android-9/arch-arm/usr/include/sys/epoll.h
 
 D:/Android/android-ndk-r10b/platforms/android-9/arch-arm/usr/include/jni.h:
 
@@ -180,3 +181,5 @@ D:/Android/android-ndk-r10b/platforms/android-9/arch-arm/usr/include/asm/errno.h
 D:/Android/android-ndk-r10b/platforms/android-9/arch-arm/usr/include/asm-generic/errno.h:
 
 D:/Android/android-ndk-r10b/platforms/android-9/arch-arm/usr/include/asm-generic/errno-base.h:
+
+D:/Android/android-ndk-r10b/platforms/android-9/arch-arm/usr/include/sys/epoll.h:
